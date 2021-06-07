@@ -1,2 +1,2 @@
 # ghibli_api
-A tool to gather info about Studio Ghibli movies from an API
+A tool to gather info about Studio Ghibli movies from an [API](ghibliapi.herokuapp.com)
